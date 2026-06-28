@@ -1,0 +1,17 @@
+Tanka Star Support
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── logo.png
+│   ├── images/
+│   └── icons/
+└── pages/
+    ├── about.html
+    ├── services.html
+    ├── forms.html
+    ├── downloads.html
+    └── contact.html
