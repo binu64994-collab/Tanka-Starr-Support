@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tanka Star Support</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<header>
+<h1>Tanka Star Support</h1>
+<p>नेपालका सबै प्रकारका Online Services</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">Services</a>
+<a href="#">Online Forms</a>
+<a href="#">Downloads</a>
+<a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+<h1>Welcome</h1>
+<p>एकै ठाउँमा Online Form, Computer Support, Mobile Support र धेरै सेवाहरू।</p>
+
+<a class="btn" href="#">Explore Services</a>
+
+</section>
+
+<footer>
+
+© 2026 Tanka Star Support | All Rights Reserved
+
+</footer>
+
+</body>
+</html>
