@@ -1,0 +1,14 @@
+assets/
+css/
+js/
+pages/
+
+index.html
+css/style.css
+js/script.js
+
+pages/about.html
+pages/services.html
+pages/forms.html
+pages/downloads.html
+pages/contact.html
